@@ -1,0 +1,12 @@
+{
+  "name": "cors-proxy4",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "deploy": "wrangler deploy",
+    "dev": "wrangler dev"
+  },
+  "devDependencies": {
+    "wrangler": "^4.21.0"
+  }
+}
